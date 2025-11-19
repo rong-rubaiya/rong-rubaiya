@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubaiya Hamid</h1>
-<h3 align="center">Junior Web Developer | Full Stack Enthusiast | Lifelong Learner</h3>
+![My Profile Banner]([https://i.imgur.com/abcd123.png](https://raw.githubusercontent.com/rong-rubaiya/rong-rubaiya/refs/heads/main/my%20banner.jpeg))
 
 ---
 
