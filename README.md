@@ -1,9 +1,6 @@
 ![My Profile Banner](https://raw.githubusercontent.com/rong-rubaiya/rong-rubaiya/refs/heads/main/my%20banner.jpeg)
 
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-Hi, I am Rubaiya .... Welcome to my GitHub Profile
-</marquee>
 
 
 
