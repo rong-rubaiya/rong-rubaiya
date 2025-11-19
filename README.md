@@ -1,4 +1,5 @@
-![My Profile Banner](https://raw.githubusercontent.com/rong-rubaiya/rong-rubaiya/refs/heads/main/my%20banner.jpeg)
+![Hi, I am Rubaiya .... Welcome to my GitHub Profile](https://img.shields.io/badge/Hi%2C%20I%20am%20Rubaiya%20....%20Welcome%20to%20my%20GitHub%20Profile-blue)
+
 
 
 ---
