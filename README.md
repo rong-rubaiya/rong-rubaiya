@@ -1,4 +1,5 @@
-![My Profile Banner]([https://i.imgur.com/abcd123.png](https://raw.githubusercontent.com/rong-rubaiya/rong-rubaiya/refs/heads/main/my%20banner.jpeg))
+![My Profile Banner](https://raw.githubusercontent.com/rong-rubaiya/rong-rubaiya/refs/heads/main/my%20banner.jpeg)
+
 
 ---
 
